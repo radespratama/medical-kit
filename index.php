@@ -14,6 +14,7 @@
 
   <!-- Bootstrap 3.3.2 -->
   <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css"> -->
   <!-- Font Awesome Icons -->
   <link href="assets/plugins/font-awesome-4.6.3/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
   <!-- Theme style -->
@@ -80,6 +81,9 @@
 
     </div><!-- /.login-box-body -->
   </div><!-- /.login-box -->
+
+  <!-- <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script> -->
 
   <!-- jQuery 2.1.3 -->
   <script src="assets/plugins/jQuery/jQuery-2.1.3.min.js"></script>
