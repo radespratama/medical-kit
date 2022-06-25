@@ -31,6 +31,13 @@ Aplikasi Persediaan Obat ini dibangun menggunakan bahasa pemrograman PHP dan dat
 
 <br/>
 
+## Demo
+Jika ingin ingin mencoba aplikasi ini bisa login dengan :
+```
+Username : admin
+Password : admin
+```
+
 ## 🤞 Kontribusi
 
 Jika ingin berkontribusi untuk projek ini, seperti menambahkan fitur dan lain² :
